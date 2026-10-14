@@ -6,7 +6,7 @@ Windows Codex 龙娘启动动画安装包。横向 **16:9、2560 × 1440、60 �
 
 ## 下载
 
-[下载 v1.0.0 完整安装包](https://github.com/mytjxs/codex-startup-animation/releases/download/v1.0.0/codex-startup-animation-v1.0.0-win-x64.zip) · [版本下载页](https://github.com/mytjxs/codex-startup-animation/releases/tag/v1.0.0)
+[下载 v1.0.0 完整安装包](https://github.com/1231231233534/codex-startup-animation/releases/download/v1.0.0/codex-startup-animation-v1.0.0-win-x64.zip) · [版本下载页](https://github.com/1231231233534/codex-startup-animation/releases/tag/v1.0.0)
 
 ## 使用
 
